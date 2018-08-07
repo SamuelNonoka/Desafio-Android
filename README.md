@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafio de programação mobile Android
 
 A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis.
@@ -63,3 +64,5 @@ Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas p
 ## Referência
 
 Este desafio foi baseado neste outro desafio: https://bitbucket.org/suporte_concrete/desafio-android
+
+>>>>>>> c6136757f76f5d8eab78de4ef89cbcb28440c5a1
